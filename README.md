@@ -1,5 +1,5 @@
-### Hi there 👋
-
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Nachum42&theme=nightowl)
+![image](https://github-readme-stats.vercel.app/api?username=Nachum42&theme=nightowl)
 <!--
 **nachum42/nachum42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
